@@ -57,6 +57,8 @@
 - Added Text to speach narrator (FreeTTS)
     - Allowed more users to access the program and offers a unique experience with a chatbot.
 
+- API added for individual proj: Google Translate API
+  This API will be used for translating responses from the user as well as translating messages to be sent.
     
 
 
